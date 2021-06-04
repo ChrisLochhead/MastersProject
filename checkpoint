@@ -1,2 +1,2 @@
-model_checkpoint_path: "space_invaders.h5f"
-all_model_checkpoint_paths: "space_invaders.h5f"
+model_checkpoint_path: "asteroids.h5f"
+all_model_checkpoint_paths: "asteroids.h5f"
