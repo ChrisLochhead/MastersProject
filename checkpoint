@@ -1,2 +1,0 @@
-model_checkpoint_path: "asteroids.h5f"
-all_model_checkpoint_paths: "asteroids.h5f"
